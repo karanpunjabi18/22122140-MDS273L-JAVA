@@ -1,10 +1,6 @@
 import java.util.List;
 import java.util.Scanner;
 
-// import P5.Array;
-
-// package 22122140-MDS273L-JAVA.Lab2;
-
 public class Lab2 {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
