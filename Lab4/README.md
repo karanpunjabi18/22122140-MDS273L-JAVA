@@ -21,7 +21,7 @@ Before working on the code, write the logic (algorithm/flowchart) in your observ
 ```
 
 # Flow Chart
-
+![Alt text](Lab4FlowChart.jpg)
 
 ## How to Run the program:
 ```
