@@ -25,7 +25,9 @@ Save the details of each student in a file, with his name with the help of a met
 ```
 
 # Flow Chart
-<!-- Will Update in sometime! -->
+![Alt text](Lab5FlowChart.jpg)
+
+
 ```
 Will Update in sometime!
 And

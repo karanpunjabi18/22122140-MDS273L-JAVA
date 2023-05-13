@@ -25,6 +25,9 @@ You have been given an HTML file; from the HTML File, identify the Top categorie
 --> To run the program, type "java Lab5"
 ```
 
+## Flow Chart
+![Alt text](Lab6FlowChart.jpg)
+
 ## Sample Output:
 ```
 =======================================================================

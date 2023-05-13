@@ -15,6 +15,9 @@ Present your results in the appropriate format and write the results in a file.
 --> To run the program, type "java Lab7"
 ```
 
+## Flow Chart
+![Alt text](Lab7FlowChart.jpg)
+
 ## Sample Output:
 ```
 =======================================================================================

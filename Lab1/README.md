@@ -9,9 +9,12 @@ Write a Java Program that will collect your basic details that fall into differe
 3) State name should be an Indian state name.
 4) State name should not contain any numeric values or special characters.
 
+# Flow Chart
+![Alt text](Lab1FlowChart.jpg)
+
 
 # Sample Output 1:
-
+```
 ==========================================
 Enter your details:
 ==========================================
@@ -30,9 +33,10 @@ Age: 34
 State name: kerala
 State Region: South
 ==========================================
+```
 
 # Sample Output 2:
-
+```
 ==========================================
 Enter your details:
 ==========================================
@@ -51,10 +55,10 @@ Age: 23
 State name: gujarat
 State Region: West
 ==========================================
-
+```
 
 # Sample Output 3:
-
+```
 ==========================================
 Enter your details:
 ==========================================
@@ -73,3 +77,4 @@ Age: 22
 State name: madhya pradesh
 State Region: Central
 ==========================================
+```
